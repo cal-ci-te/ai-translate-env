@@ -1,0 +1,12 @@
+{
+  "commit": "提交",
+  "branch": "分支",
+  "merge": "合并",
+  "pipeline": "流水线",
+  "middleware": "中间件",
+  "handler": "处理器",
+  "payload": "载荷",
+  "cache": "缓存",
+  "token": "令牌",
+  "runtime": "运行时"
+}
